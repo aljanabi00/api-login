@@ -21,7 +21,7 @@ SECRET_KEY = 's763=z@ko63w$!g4+mtd7h-2jn2hz@=rsb%^(xnraff)eg+i15'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://turtanu-login.herokuapp.com']
 
 # Application definition
 
